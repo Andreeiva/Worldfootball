@@ -1,21 +1,21 @@
 {"categories" :
 [{"idCategory":"1",
 "idMeal":1,
-			"fileUrl": "http://42.201.228.226:8678/PTVSPORT_NOC_MOMILE/mono.m3u8",
+			"fileUrl": "",
         "imageUrl": "https://psllivestreamings.com/wp-content/uploads/2020/03/ptv-sports-live-streaming.jpg",
 		"strCategory":"ChampionsLeague",
        "matchName": "PTV SPORTS"
 },
 {"idCategory":"2",
-	"fileUrl": "http://42.201.228.226:8678/PTVSPORT_NOC_MOMILE/mono.m3u8",
+	"fileUrl": "",
         "imageUrl": "https://psllivestreamings.com/wp-content/uploads/2020/03/ptv-sports-live-streaming.jpg",
-		"strCategory":"ChampionsLeague",
+		"strCategory":"PremierLeague",
        "matchName": "PTV SPORTS"
 },
 {"idCategory":"3",
 	"fileUrl": "http://42.201.228.226:8678/PTVSPORT_NOC_MOMILE/mono.m3u8",
         "imageUrl": "https://psllivestreamings.com/wp-content/uploads/2020/03/ptv-sports-live-streaming.jpg",
-		"strCategory":"ChampionsLeague",
+		"strCategory":"La Liga",
        "matchName": "PTV SPORTS"
 
 }
