@@ -1,0 +1,71 @@
+{
+
+	"meals":[
+	{
+    	"idMeal":1,
+			"fileUrl": "http://42.201.228.226:8678/PTVSPORT_NOC_MOMILE/mono.m3u8"
+        "imageUrl": "https://psllivestreamings.com/wp-content/uploads/2020/03/ptv-sports-live-streaming.jpg",
+        "matchName": "PTV SPORTS"
+        strCategory:"ChampionsLeague"
+  },
+	
+			
+
+	
+
+
+	{
+    	"idMeal":1,		
+     	"fileUrl": "http://42.201.228.226:8678/PTVSPORT_NOC_MOMILE/mono.m3u8"
+        "imageUrl": "https://psllivestreamings.com/wp-content/uploads/2020/03/ptv-sports-live-streaming.jpg",
+        "matchName": "PTV SPORTS"
+        strCategory:"ChampionsLeague"
+  },
+	
+	
+		
+	
+
+	
+	
+	{
+ 	"idMeal":1,		
+     	"fileUrl": "http://42.201.228.226:8678/PTVSPORT_NOC_MOMILE/mono.m3u8"
+        "imageUrl": "https://psllivestreamings.com/wp-content/uploads/2020/03/ptv-sports-live-streaming.jpg",
+        "matchName": "PTV SPORTS"
+        strCategory:"ChampionsLeague"
+  },
+		
+
+
+	
+	
+
+	{
+   	"idMeal":1,		
+     	"fileUrl": "http://42.201.228.226:8678/PTVSPORT_NOC_MOMILE/mono.m3u8"
+        "imageUrl": "https://psllivestreamings.com/wp-content/uploads/2020/03/ptv-sports-live-streaming.jpg",
+        "matchName": "PTV SPORTS"
+        strCategory:"ChampionsLeague"
+  },
+	
+	
+		{
+  	"idMeal":1,		
+     	"fileUrl": "http://42.201.228.226:8678/PTVSPORT_NOC_MOMILE/mono.m3u8"
+        "imageUrl": "https://psllivestreamings.com/wp-content/uploads/2020/03/ptv-sports-live-streaming.jpg",
+        "matchName": "PTV SPORTS"
+        strCategory:"ChampionsLeague"
+  },
+		
+		{
+   	"idMeal":1,		
+     	"fileUrl": "http://42.201.228.226:8678/PTVSPORT_NOC_MOMILE/mono.m3u8"
+        "imageUrl": "https://psllivestreamings.com/wp-content/uploads/2020/03/ptv-sports-live-streaming.jpg",
+        "matchName": "PTV SPORTS"
+        strCategory:"ChampionsLeague"
+  ]
+	
+	
+	
+ } 
