@@ -1,32 +1,59 @@
 {
-	"Categories": [
-		{
-		"idCategory": "1",
-		"fileUrl": "http://42.201.228.226:8678/PTVSPORT_NOC_MOMILE/mono.m3u8",
-                "imageUrl": "https://psllivestreamings.com/wp-content/uploads/2020/03/ptv-sports-live-streaming.jpg",
-		"strCategory":"ChampionsLeague",
-              "matchName": "PTV SPORTS"
-		},
-		{
-		"idCategory": "2",
-		"fileUrl": "http://42.201.228.226:8678/PTVSPORT_NOC_MOMILE/mono.m3u8",
-                "imageUrl": "https://psllivestreamings.com/wp-content/uploads/2020/03/ptv-sports-live-streaming.jpg",
-		"strCategory":"ChampionsLeague",
-              "matchName": "PTV SPORTS"
-		},
-		{
-		"idCategory": "3",
-		"fileUrl": "http://42.201.228.226:8678/PTVSPORT_NOC_MOMILE/mono.m3u8",
-                "imageUrl": "https://psllivestreamings.com/wp-content/uploads/2020/03/ptv-sports-live-streaming.jpg",
-		"strCategory":"ChampionsLeague",
-              "matchName": "PTV SPORTS"
-		},
-		"idCategory": "4",
-		"fileUrl": "http://42.201.228.226:8678/PTVSPORT_NOC_MOMILE/mono.m3u8",
-                "imageUrl": "https://psllivestreamings.com/wp-content/uploads/2020/03/ptv-sports-live-streaming.jpg",
-		"strCategory":"ChampionsLeague",
-              "matchName": "PTV SPORTS"
-		}
-		
-        ]
+  "categories": [
+    {
+      "idCategory": "1",
+      "strCategory": "ENGLSIH PREMIER LEAGUE",
+      "strCategoryThumb": "https://www.themealdb.com/images/category/beef.png",
+ 	"strCategoryDescription": ""    
+    },
+    {
+      "idCategory": "2",
+      "strCategory": "SPANISH LA LIGA",
+      "strCategoryThumb": "https://www.themealdb.com/images/category/chicken.png",
+	 "strCategoryDescription": ""    
+    },
+    {
+      "idCategory": "3",
+      "strCategory": "SERIE A",
+      "strCategoryThumb": "https://www.themealdb.com/images/category/dessert.png",
+	 "strCategoryDescription": ""   
+    },
+    {
+      "idCategory": "4",
+      "strCategory": "GERMAN BUNDESLIGA",
+      "strCategoryThumb": "https://www.themealdb.com/images/category/lamb.png",
+ 	"strCategoryDescription": ""   
+    },
+    {
+      "idCategory": "5",
+      "strCategory": "UEFA CHAMPIONS LEAGUE",
+      "strCategoryThumb": "https://www.themealdb.com/images/category/miscellaneous.png",
+ 	"strCategoryDescription": ""
+    },
+    {
+      "idCategory": "FREHCH LEAGUE",
+      "strCategory": "Pasta",
+      "strCategoryThumb": "https://www.themealdb.com/images/category/pasta.png",
+ 	"strCategoryDescription": ""   
+    },
+    {
+      "idCategory": "EUROPA LEAGUE",
+      "strCategory": "Pork",
+      "strCategoryThumb": "https://www.themealdb.com/images/category/pork.png",
+	 "strCategoryDescription": ""    },
+	  
+    {
+      "idCategory": "8",
+      "strCategory": "WORLD CUP",
+      "strCategoryThumb": "https://www.themealdb.com/images/category/seafood.png",
+      "strCategoryDescription": ""
+    },
+    {
+      "idCategory": "9",
+      "strCategory": "EURO 2020",
+      "strCategoryThumb": "https://www.themealdb.com/images/category/side.png",
+      "strCategoryDescription": ""
+    }
+    
+  ]
 }
