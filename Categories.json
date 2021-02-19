@@ -3,55 +3,55 @@
     {
       "idCategory": "1",
       "strCategory": "ENGLSIH PREMIER LEAGUE",
-      "strCategoryThumb": "https://www.themealdb.com/images/category/beef.png",
+      "strCategoryThumb": "https://i.pinimg.com/originals/23/72/64/23726435c00fa8a9ca4dca88bb0b9cd7.png",
  	"strCategoryDescription": ""    
     },
     {
       "idCategory": "2",
       "strCategory": "SPANISH LA LIGA",
-      "strCategoryThumb": "https://www.themealdb.com/images/category/chicken.png",
+      "strCategoryThumb": "https://iscreativestudio.com/wp-content/uploads/2016/08/logotipos4.jpg",
 	 "strCategoryDescription": ""    
     },
     {
       "idCategory": "3",
       "strCategory": "SERIE A",
-      "strCategoryThumb": "https://www.themealdb.com/images/category/dessert.png",
+      "strCategoryThumb": "https://upload.wikimedia.org/wikipedia/commons/9/93/Serie_A_Logo_%28ab_2019%29.png",
 	 "strCategoryDescription": ""   
     },
     {
       "idCategory": "4",
       "strCategory": "GERMAN BUNDESLIGA",
-      "strCategoryThumb": "https://www.themealdb.com/images/category/lamb.png",
+      "strCategoryThumb": "https://1.bp.blogspot.com/-dfd7PVwkv38/Vs6h-ZDi9uI/AAAAAAAADmc/tKSQHydJvUU/s1600/Logo-Bundesliga-01-header.jpg",
  	"strCategoryDescription": ""   
     },
     {
       "idCategory": "5",
       "strCategory": "UEFA CHAMPIONS LEAGUE",
-      "strCategoryThumb": "https://www.themealdb.com/images/category/miscellaneous.png",
+      "strCategoryThumb": "https://m.dw.com/image/16392542_401.jpg",
  	"strCategoryDescription": ""
     },
     {
-      "idCategory": "FREHCH LEAGUE",
-      "strCategory": "Pasta",
-      "strCategoryThumb": "https://www.themealdb.com/images/category/pasta.png",
+      "idCategory": "6",
+      "strCategory": "FRENCH LIGUE 1",
+      "strCategoryThumb": "https://i.pinimg.com/originals/09/50/83/095083a6a83190113c7d9f716c06c339.png",
  	"strCategoryDescription": ""   
     },
     {
-      "idCategory": "EUROPA LEAGUE",
-      "strCategory": "Pork",
-      "strCategoryThumb": "https://www.themealdb.com/images/category/pork.png",
+      "idCategory": "7",
+      "strCategory": "EUROPA LEAGUE",
+      "strCategoryThumb": "https://i.pinimg.com/originals/42/4d/8a/424d8a0df929bd0b8e5d2472e8e13fd0.jpg",
 	 "strCategoryDescription": ""    },
 	  
     {
       "idCategory": "8",
       "strCategory": "WORLD CUP",
-      "strCategoryThumb": "https://www.themealdb.com/images/category/seafood.png",
+      "strCategoryThumb": "https://static.bangkokpost.com/media/content/20190904/c1_3312819.jpg",
       "strCategoryDescription": ""
     },
     {
       "idCategory": "9",
       "strCategory": "EURO 2020",
-      "strCategoryThumb": "https://www.themealdb.com/images/category/side.png",
+      "strCategoryThumb": "https://i.pinimg.com/originals/19/c5/e6/19c5e65086143d66c77a7cc34b0eafd9.png",
       "strCategoryDescription": ""
     }
     
