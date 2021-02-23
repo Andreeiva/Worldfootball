@@ -31,38 +31,7 @@
 
 	
 	
-	{
- 	"idMeal":1,
-	"strUrl":"http://185.132.177.110:8080/COSMOTESport2HD/video.m3u8",
-	"strMeal":"Arsenal vs Westbrom",
-	"strCategory":"English PremierLeague",
-	"strMealThumb":"https://www.expressandstar.com/resizer/h2Z8aroovAFVZAXIQkvucgryKZ8=/1200x0/cloudfront-us-east-1.images.arcpublishing.com/mna/PJT4VWC4TNCW5GR6GLMDNUY3Z4.jpg",
-       "strDescription": "PTV SPORTS"
-  },
-		
-
-
 	
-	
-
-	{
-   	"idMeal":1,
-	"strUrl":"http://185.132.177.110:8080/COSMOTESport2HD/video.m3u8",
-	"strMeal":"Arsenal vs Westbrom",
-	"strCategory":"English PremierLeague",
-	"strMealThumb":"https://www.expressandstar.com/resizer/h2Z8aroovAFVZAXIQkvucgryKZ8=/1200x0/cloudfront-us-east-1.images.arcpublishing.com/mna/PJT4VWC4TNCW5GR6GLMDNUY3Z4.jpg",
-      "strDescription": "PTV SPORTS"
-  },
-	
-	
-		{
-  	"idMeal":1,
-	"strUrl":"http://185.132.177.110:8080/COSMOTESport2HD/video.m3u8",
-	"strMeal":"Arsenal vs Westbrom",
-	"strCategory":"English PremierLeague",
-	"strMealThumb":"https://www.expressandstar.com/resizer/h2Z8aroovAFVZAXIQkvucgryKZ8=/1200x0/cloudfront-us-east-1.images.arcpublishing.com/mna/PJT4VWC4TNCW5GR6GLMDNUY3Z4.jpg",
-       "strDescription": "PTV SPORTS"
-  },
 		
 		{
         "idMeal":1,
